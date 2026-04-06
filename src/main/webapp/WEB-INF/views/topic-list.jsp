@@ -34,7 +34,6 @@
           <li><a href="${pageContext.request.contextPath}/topic?action=new">+New Topic</a></li>
         </ul>
       </nav>
-
       <main class="content">
         <div class="search">
           <form action="${pageContext.request.contextPath}/topic" method="get">
